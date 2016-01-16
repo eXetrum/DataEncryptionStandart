@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\ms visual studio\projects\c++\dataencryptionstandart\dataencryptionstandart\des.h(613): warning C4101: 'ex' : unreferenced local variable
+  DataEncryptionStandart.vcxproj -> D:\MS Visual Studio\Projects\C++\DataEncryptionStandart\Debug\DataEncryptionStandart.exe
